@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<question type="quiz">
+<quiz>
 	<question type="matching">
 		<name>
 			<text>Demo question d'appariement</text>
@@ -54,4 +54,4 @@
 		<shuffleanswers>1</shuffleanswers>
 		<single>true</single>
 	</question>
-</question>
+</quiz>
